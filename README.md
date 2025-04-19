@@ -1,1 +1,1 @@
-# Customer-Segmentation-Looklike-modelingLooklike
+# Data_Science_Assignment
